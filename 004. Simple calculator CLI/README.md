@@ -34,7 +34,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pycalc-ultra.git
+https://github.com/emmaibu/python-mastery/tree/main/004.%20Simple%20calculator%20CLI
 cd pycalc-ultra
 ```
 
