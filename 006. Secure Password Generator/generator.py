@@ -42,6 +42,7 @@ def password_generator():
 
     print(f'[magenta]Your password: [/magenta][grey74]{passw}[/grey74]')
 
+
 while True:
 
     password_generator()
@@ -54,4 +55,4 @@ while True:
     if again not in ['y', 'yes']:
         break
     
-print('[blink blue]Bye! Keep using strong passwords![/blink blue]')
+print('[cyan]Bye! Keep using strong passwords![/cyan]')
